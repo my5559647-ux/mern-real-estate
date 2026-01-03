@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package",
   "name": "mern-estate",
   "version": "1.0.0",
   "description": "",
